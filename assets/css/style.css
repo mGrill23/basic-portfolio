@@ -1,5 +1,5 @@
 body{
-    background-color: #ffffff;
+    background-color: #cccccc;
     border-color: #dddddd;
     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
     text-decoration-color: #777777;
@@ -42,5 +42,10 @@ body{
 .lower{
     margin-top: 50px;
     background-color: #ffffff;
+}
+
+.portbody{
+    margin-top: 50px;
+    background-color: #ffffff
 }
 
