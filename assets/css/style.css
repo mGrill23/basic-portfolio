@@ -14,12 +14,24 @@ body{
 .name{
     background-color: #4aaaa5;
     text-decoration-color: #ffffff;
+    float: left;
 }
 
 .links{
     text-decoration-line: underline;
+    float: right;
 }
 
 .form_box{
     border-color: #777777
 }
+
+.button{
+    background-color: #4aaaa5;
+    text-decoration-color: #ffffff;
+}
+
+.image_text{
+    float: left;
+}
+
