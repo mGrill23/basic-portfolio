@@ -16,4 +16,10 @@ body{
     text-decoration-color: #ffffff;
 }
 
+.links{
+    text-decoration-line: underline;
+}
 
+.form_box{
+    border-color: #777777
+}
