@@ -51,5 +51,7 @@ body{
 
 #form{
     border-color: #000000;
+    border-style: solid;
+    border-spacing: 20px;
 }
 
